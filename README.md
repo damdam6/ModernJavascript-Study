@@ -1,4 +1,25 @@
 # ModernJavascript-Study
+<br>
+
+## ✔ Info
+
+### 📕 Book
+
+<img src="https://github.com/damdam6/ModernJavascript-Study/assets/47710007/9aba00f7-f3cd-46e2-b0b8-88edbe827002" width="300">
+<br>
+<br>
+
+### 🧑‍🤝‍🧑 Members
+
+|<img src="https://avatars.githubusercontent.com/u/47710007?v=4" width="150"> | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+|[damdam6](https://github.com/damdam6)| | | | |
+
+<br>
+
+---
+<br>
+
 
 ## 📢 Convention
 
@@ -90,7 +111,15 @@ week01 damdam6 PR
 ||||
 |**week01**<br>(24.01.08 ~ 24.01.14)|04장 변수 ~ 06장 데이터 타입 <br> 34p ~ 73p|**damdam6**|
 ||-|damdam6|
+||study-title|user-name|
+||study-title|user-name|
+||study-title|user-name|
+||study-title|user-name|
+||||
+|**week02**<br>(24.01.15 ~ 24.01.21)|07장 연산자 ~ 09장 타입변환과 단축 평가 <br> 74p ~ 123p|**user-name**|
 ||-|damdam6|
-||-|damdam6|
-||-|damdam6|
-||-|damdam6|
+||study-title|user-name|
+||study-title|user-name|
+||study-title|user-name|
+||study-title|user-name|
+||||
