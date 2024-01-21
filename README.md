@@ -14,6 +14,7 @@
 |<img src="https://avatars.githubusercontent.com/u/47710007?v=4" width="150"> |<img src="https://avatars.githubusercontent.com/u/80046476?v=4"  width="150">|<img src="https://avatars.githubusercontent.com/u/139521783?v=4"  width="150">| <img src="https://avatars.githubusercontent.com/u/135293451?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/73322485?v=4" width="150"> |
 |:---:|:---:|:---:|:---:|:---:|
 |[damdam6](https://github.com/damdam6)|[gabalja](https://github.com/gabalja) | [sgryu23](https://github.com/sgryu23) | [HunTeac](https://github.com/HunTeac) |[zoowb](https://github.com/zoowb) |
+|이담비|손의성|류승광|한재훈|최지우|
 
 <br>
 
@@ -110,11 +111,11 @@ week01 damdam6 PR
 |  | 공부 주제 | 담당자 |
 ||||
 |**week01**<br>(24.01.08 ~ 24.01.14)|04장 변수 ~ 06장 데이터 타입 <br> 34p ~ 73p|**damdam6**|
-||-|damdam6|
-||-|gabalja|
-||-|sgryu23|
-||-|HunTeac|
-||-|zoowb|
+||동적 타입 언어와 타입스크립트|damdam6|
+|| 변수 호이스팅 |gabalja|
+||표현식|sgryu23|
+||표현식과 문 리터럴 |HunTeac|
+||변수 - 값의 재할당|zoowb|
 ||||
 |**week02**<br>(24.01.15 ~ 24.01.21)|07장 연산자 ~ 09장 타입변환과 단축 평가 <br> 74p ~ 123p|**user-name**|
 ||-|damdam6|
