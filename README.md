@@ -117,10 +117,24 @@ week01 damdam6 PR
 ||표현식과 문 리터럴 |HunTeac|
 ||변수 - 값의 재할당|zoowb|
 ||||
-|**week02**<br>(24.01.15 ~ 24.01.21)|07장 연산자 ~ 09장 타입변환과 단축 평가 <br> 74p ~ 123p|**user-name**|
-||-|damdam6|
-||-|gabalja|
-||-|sgryu23|
-||-|HunTeac|
-||-|zoowb|
+|**week02**<br>(24.01.15 ~ 24.01.21)|07장 연산자 ~ 09장 타입변환과 단축 평가 <br> 74p ~ 123p|**gabalja**|
+||Object.is와 === 연산자 비교|damdam6|
+||단축평가|gabalja|
+||반복문|sgryu23|
+||가독성 좋은 조건문 작성 방법|HunTeac|
+||암묵적 타입 변환|zoowb|
+||||
+|**week03**<br>(24.01.22 ~ 24.01.28)|10장 연산자 ~ 12장 함수 <br> 124p ~ 188p|**sgryu23**|
+||함수 선언문vs함수 표현식(airbnb가이드)|damdam6|
+||유사배열객체|gabalja|
+||함수 정의|sgryu23|
+||다양한 함수의 형태|HunTeac|
+||암묵적 타입 변환|zoowb|
+||||
+|**week04**<br>(24.01.29 ~ 24.02.04)|13장 스코프 ~ 16장 프로퍼티 어트리뷰트 <br> 189p ~ 233p|**HunTeac**|
+||함수 선언문vs함수 표현식(airbnb가이드)|damdam6|
+||유사배열객체|gabalja|
+||함수 정의|sgryu23|
+||다양한 함수의 형태|HunTeac|
+||암묵적 타입 변환|zoowb|
 ||||
