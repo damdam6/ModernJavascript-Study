@@ -132,9 +132,16 @@ week01 damdam6 PR
 ||암묵적 타입 변환|zoowb|
 ||||
 |**week04**<br>(24.01.29 ~ 24.02.04)|13장 스코프 ~ 16장 프로퍼티 어트리뷰트 <br> 189p ~ 233p|**HunTeac**|
-||함수 선언문vs함수 표현식(airbnb가이드)|damdam6|
+||-|damdam6|
 ||유사배열객체|gabalja|
 ||함수 정의|sgryu23|
-||다양한 함수의 형태|HunTeac|
+||-|HunTeac|
 ||암묵적 타입 변환|zoowb|
+||||
+|**week05**<br>(24.02.13 ~ 24.02.18)|17장 생성자 함수에 의한 객체 생성 ~ 19장 프로토타입 <br> 234p ~ 312p|**HunTeac**|
+||프로퍼티 명확히 하기 |damdam6|
+||-|gabalja|
+|| 프로토타입 객체 |sgryu23|
+||-|HunTeac|
+||- |zoowb|
 ||||
