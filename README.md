@@ -195,7 +195,7 @@ body :
 
 ## 📢 진도
 
-[ week01 ~ week07 기록]() <br>
+[ week01 ~ week07 기록](https://github.com/damdam6/ModernJavascript-Study/blob/main/rules/PASTPROGRESS.md) <br>
 <br>
 
 | 주차(일정) | 진도(교재 범위) | quiz 담당자 |
