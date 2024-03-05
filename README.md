@@ -175,18 +175,12 @@ body :
  ```
  .
  ├── week01
- │   ├── quiz
- │   |   ├── quiz.txt(md)
- │   │   └── answer.txt(md)
  │   ├── user-name-1
  │   |   ├── study-title.md
  │   │   └── study-title.txt
  │   └── user-name-2
  │       └── study-title-2.md
  └── week02
-     ├── quiz
-     |   ├── quiz.txt(md)
-     │   └── answer.txt(md)
      ├── user-name-1
      │   └── study-title.txt
      └── user-name-2
